@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Jorge!
-- 🌱 Currently I've been studying constantly about the python language looking for a basis for Data Science.
+- 🌱 Currently studying everything I can about C# and .NET development
 - 💞️ I'm looking to collaborate whenever I can.
 - ⚡ Curiosity: I love doing physical activities and programming.
 <!---
